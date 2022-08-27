@@ -56,7 +56,7 @@ or via script tag (`Vue` must be globally available)
 | Method      | Description                                  |
 | ----------- | -------------------------------------------- |
 | `execute()` | Programmatically trigger a challenge request |
-| `reset()`   | Reset the current challenge                  |
+| `resetCaptcha()`   | Reset the current challenge                  |
 
 ### FAQ
 
